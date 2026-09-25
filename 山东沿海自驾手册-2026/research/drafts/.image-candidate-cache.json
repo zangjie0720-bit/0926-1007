@@ -1,0 +1,596 @@
+{
+  "e42327fec11d602ef164d5781a14da7920076eb0cad4f24c995d1f7309f80eed": {
+    "id": "qingdao-zhanqiao",
+    "kind": "sight",
+    "display_name": "青岛栈桥",
+    "city": "青岛",
+    "country": "中国",
+    "official_url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202601/t20260126_10481040.shtml",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61986532",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%95%BF%E5%BE%811%E5%8F%B7%E6%A0%B8%E6%BD%9C%E8%89%87_01.jpg",
+        "title": "青岛中国海军博物馆长征1号核潜艇 01",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61906390",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%9E%8D%E5%B1%B1%E5%8F%B7%E9%A9%B1%E9%80%90%E8%88%B0.jpg",
+        "title": "File:青岛中国海军博物馆鞍山号驱逐舰.jpg",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [
+      {
+        "source": "official",
+        "error": "ValueError"
+      }
+    ],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "61de82dff9012bb3918e0fda0b638e93a63b1798974050e44268117d4cb5ee7d": {
+    "id": "rizhao-forest",
+    "kind": "sight",
+    "display_name": "日照海滨国家森林公园",
+    "city": "日照",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/45154726@N05/4218347703",
+        "image_url": "https://live.staticflickr.com/2717/4218347703_a662504321_b.jpg",
+        "title": "冯正虎向中国政府转呈12月27日的日本官方文件（总第25份）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "fzhenghu",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/45154726@N05/4244929322",
+        "image_url": "https://live.staticflickr.com/4017/4244929322_1e5b5bbf98_b.jpg",
+        "title": "冯正虎向中国政府转呈1月4日的日本官方文件（总第33份）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "fzhenghu",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "54097f1317bd3b17f5a4928467d482e3077181b001d4c37a934a17ffa569d239": {
+    "id": "rizhao-wanpingkou",
+    "kind": "sight",
+    "display_name": "万平口海滨风景区",
+    "city": "日照",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/45154726@N05/4218347703",
+        "image_url": "https://live.staticflickr.com/2717/4218347703_a662504321_b.jpg",
+        "title": "冯正虎向中国政府转呈12月27日的日本官方文件（总第25份）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "fzhenghu",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/45154726@N05/4244929322",
+        "image_url": "https://live.staticflickr.com/4017/4244929322_1e5b5bbf98_b.jpg",
+        "title": "冯正虎向中国政府转呈1月4日的日本官方文件（总第33份）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "fzhenghu",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "e402e33e0c82268d08b9d6618f9144f8e8ae1c0dc45e3d565cf2e317074bf40e": {
+    "id": "qingdao-mayfourth",
+    "kind": "sight",
+    "display_name": "五四广场",
+    "city": "青岛",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61986532",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%95%BF%E5%BE%811%E5%8F%B7%E6%A0%B8%E6%BD%9C%E8%89%87_01.jpg",
+        "title": "青岛中国海军博物馆长征1号核潜艇 01",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61906390",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%9E%8D%E5%B1%B1%E5%8F%B7%E9%A9%B1%E9%80%90%E8%88%B0.jpg",
+        "title": "File:青岛中国海军博物馆鞍山号驱逐舰.jpg",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "42b7b1ea881a1aecc7820238d4a0d7a93beaf701703374fbed8ba5c5cffec4bf": {
+    "id": "qingdao-badaguan",
+    "kind": "sight",
+    "display_name": "八大关",
+    "city": "青岛",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61986532",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%95%BF%E5%BE%811%E5%8F%B7%E6%A0%B8%E6%BD%9C%E8%89%87_01.jpg",
+        "title": "青岛中国海军博物馆长征1号核潜艇 01",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=61906390",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E9%9E%8D%E5%B1%B1%E5%8F%B7%E9%A9%B1%E9%80%90%E8%88%B0.jpg",
+        "title": "File:青岛中国海军博物馆鞍山号驱逐舰.jpg",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "StefanTsingtauer",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "83116d76a5ab562feecc520c65795c285129fa74b5e01a29562d64650f1fcff2": {
+    "id": "rushan-yintan",
+    "kind": "sight",
+    "display_name": "乳山银滩",
+    "city": "乳山",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/61860520@N07/41494969992",
+        "image_url": "https://live.staticflickr.com/914/41494969992_b54e098076_b.jpg",
+        "title": "B15I3113_副本",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "pdm",
+        "creator": "lonelyshrimp",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/148158860@N03/36536961362",
+        "image_url": "https://live.staticflickr.com/4409/36536961362_62105a8017_b.jpg",
+        "title": "Braunvieh = 世界の牛 ブラウンフィー（雌）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "JIRCAS",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "d4a93229ec1b285c518c536322ccc6ee9b23084d228eb2f0816c8ce4248e9085": {
+    "id": "weihai-park",
+    "kind": "sight",
+    "display_name": "威海公园",
+    "city": "威海",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/48973657@N00/8520172235",
+        "image_url": "https://live.staticflickr.com/8381/8520172235_8c60eabed3_b.jpg",
+        "title": "“JJ” / 人流建築之形 Human Logistics Architecture Forms / SML.20130227.EOSM.02681.P1.L1",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "See-ming Lee (SML)",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/45154726@N05/4218347703",
+        "image_url": "https://live.staticflickr.com/2717/4218347703_a662504321_b.jpg",
+        "title": "冯正虎向中国政府转呈12月27日的日本官方文件（总第25份）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "fzhenghu",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "a9254634f7648454175834528fe78f87fcd4a80093736f5f016ef83c487eb284": {
+    "id": "rongcheng-chengshantou",
+    "kind": "sight",
+    "display_name": "成山头风景区",
+    "city": "荣成",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/86401769@N00/695069957",
+        "image_url": "https://live.staticflickr.com/1093/695069957_ce792bbb59_b.jpg",
+        "title": "拿着宝丽莱的小女孩 Girl with Polaroid",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "randomix",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/86401769@N00/716047076",
+        "image_url": "https://live.staticflickr.com/1364/716047076_404515d298_b.jpg",
+        "title": "拿着宝丽莱的小男孩 Boy with his Polaroid",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "randomix",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "9dea57fc3b703f51d171c66951fac252cf052c771f7c8d4aa16926347e407bdc": {
+    "id": "rongcheng-naxianghai",
+    "kind": "sight",
+    "display_name": "那香海国际旅游度假区",
+    "city": "荣成",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/86401769@N00/695069957",
+        "image_url": "https://live.staticflickr.com/1093/695069957_ce792bbb59_b.jpg",
+        "title": "拿着宝丽莱的小女孩 Girl with Polaroid",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "randomix",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/86401769@N00/716047076",
+        "image_url": "https://live.staticflickr.com/1364/716047076_404515d298_b.jpg",
+        "title": "拿着宝丽莱的小男孩 Boy with his Polaroid",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "randomix",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "9c47cb9a44628fd4e03d31c2971bb3217b540a838c1063fe7298fa6a570d9992": {
+    "id": "yantai-yangmadao",
+    "kind": "sight",
+    "display_name": "养马岛",
+    "city": "烟台",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=79999367",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E7%83%9F%E5%8F%B0%E5%B8%82%2C_%E4%B8%AD%E5%9B%BD_Jun_25%2C_2019_09-24-19.jpeg",
+        "title": "烟台市, 中国 Jun 25, 2019 09-24-19",
+        "candidate_score": 24,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "David290",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/29018903@N00/87654060",
+        "image_url": "https://live.staticflickr.com/42/87654060_e10eaa6051_m.jpg",
+        "title": "Mr.P",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-sa",
+        "creator": "ppip",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "1165a05627ba8f236d8eca5577f2ae9ee835a8aa6e1072a4d8ce8f991c50b88a": {
+    "id": "zibo-haidailou",
+    "kind": "sight",
+    "display_name": "海岱楼",
+    "city": "淄博",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/24821860@N06/2344587410",
+        "image_url": "https://live.staticflickr.com/3068/2344587410_f7c9b877f0_b.jpg",
+        "title": "P1080065",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-sa",
+        "creator": "汪平",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=191189132",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Platform_1%2C_Zibo_Railway_Station_20260503-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "Platform 1, Zibo Railway Station 20260503-A",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-sa",
+        "creator": "Tim Wu",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "2bdf21e3bf44a8764663ae1a6990e341f16d5a203a1490e63ea62ef6eefba0e9": {
+    "id": "jinan-daminghu",
+    "kind": "sight",
+    "display_name": "大明湖",
+    "city": "济南",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=18575264",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/China_Expwy_G35_sign_with_name.svg",
+        "title": "China Expwy G35 sign with name",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "cc0",
+        "creator": "Siyuwj",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/88286312@N00/20198324",
+        "image_url": "https://live.staticflickr.com/17/20198324_7a7f8dd4bf.jpg",
+        "title": "林嘉澍（飞猪）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "blogger·china",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "0a392da0f835b2704ee9e2d6fc5b44b6d4008da4b7ea2b3fefb7d23f7a623ffa": {
+    "id": "jinan-baotuquan",
+    "kind": "sight",
+    "display_name": "趵突泉",
+    "city": "济南",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=18575264",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/China_Expwy_G35_sign_with_name.svg",
+        "title": "China Expwy G35 sign with name",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "cc0",
+        "creator": "Siyuwj",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/88286312@N00/20198324",
+        "image_url": "https://live.staticflickr.com/17/20198324_7a7f8dd4bf.jpg",
+        "title": "林嘉澍（飞猪）",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "blogger·china",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  },
+  "9838d29db9cabedf645389769a3c2b329c0ab30f30e98b2737ef424a4173e3c0": {
+    "id": "huaian-hexia",
+    "kind": "sight",
+    "display_name": "河下古镇",
+    "city": "淮安",
+    "country": "中国",
+    "resolved_identity": {
+      "wikidata_id": null,
+      "coordinates": null
+    },
+    "candidates": [
+      {
+        "source": "openverse",
+        "source_page": "https://www.flickr.com/photos/33710798@N03/4196820434",
+        "image_url": "https://live.staticflickr.com/2539/4196820434_44ac49909e_b.jpg",
+        "title": "",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by-nc-nd",
+        "creator": "·JERRYANG·",
+        "identity_check_required": true
+      },
+      {
+        "source": "openverse",
+        "source_page": "https://commons.wikimedia.org/w/index.php?curid=168573460",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zhou_Bingde_%282023%29.jpg",
+        "title": "Zhou Bingde (2023)",
+        "candidate_score": 20,
+        "status": "candidate",
+        "subject_verified": false,
+        "visually_confirmed": false,
+        "license": "by",
+        "creator": "China News Service",
+        "identity_check_required": true
+      }
+    ],
+    "official_artwork": [],
+    "errors": [],
+    "search_stopped": "bounded photo ladder completed; shared site artwork cannot stand in for this venue"
+  }
+}

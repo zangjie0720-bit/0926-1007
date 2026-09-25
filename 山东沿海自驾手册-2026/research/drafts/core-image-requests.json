@@ -1,0 +1,16 @@
+[
+  {"id":"rizhao-wanpingkou","kind":"sight","display_name":"万平口海滨风景区","city":"日照","country":"中国"},
+  {"id":"rizhao-forest","kind":"sight","display_name":"日照海滨国家森林公园","city":"日照","country":"中国"},
+  {"id":"qingdao-zhanqiao","kind":"sight","display_name":"青岛栈桥","city":"青岛","country":"中国","official_url":"https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202601/t20260126_10481040.shtml"},
+  {"id":"qingdao-badaguan","kind":"sight","display_name":"八大关","city":"青岛","country":"中国"},
+  {"id":"qingdao-mayfourth","kind":"sight","display_name":"五四广场","city":"青岛","country":"中国"},
+  {"id":"rushan-yintan","kind":"sight","display_name":"乳山银滩","city":"乳山","country":"中国"},
+  {"id":"weihai-park","kind":"sight","display_name":"威海公园","city":"威海","country":"中国"},
+  {"id":"rongcheng-chengshantou","kind":"sight","display_name":"成山头风景区","city":"荣成","country":"中国"},
+  {"id":"rongcheng-naxianghai","kind":"sight","display_name":"那香海国际旅游度假区","city":"荣成","country":"中国"},
+  {"id":"yantai-yangmadao","kind":"sight","display_name":"养马岛","city":"烟台","country":"中国"},
+  {"id":"zibo-haidailou","kind":"sight","display_name":"海岱楼","city":"淄博","country":"中国"},
+  {"id":"jinan-daminghu","kind":"sight","display_name":"大明湖","city":"济南","country":"中国"},
+  {"id":"jinan-baotuquan","kind":"sight","display_name":"趵突泉","city":"济南","country":"中国"},
+  {"id":"huaian-hexia","kind":"sight","display_name":"河下古镇","city":"淮安","country":"中国"}
+]

@@ -1,0 +1,44 @@
+{
+  "shops": [
+    {
+      "id": null,
+      "type": "shop",
+      "display_name": null,
+      "local_name": null,
+      "english_name": null,
+      "map_query": null,
+      "source_url": null,
+      "description": null,
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "category": null,
+      "buying_tip": null,
+      "brand_highlights": [],
+      "scheduled_label": null
+    }
+  ],
+  "souvenirs": [
+    {
+      "id": null,
+      "type": "souvenir",
+      "display_name": null,
+      "local_name": null,
+      "english_name": null,
+      "map_query": null,
+      "source_url": null,
+      "description": null,
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": null,
+      "best_for": null,
+      "where_to_buy": null,
+      "buying_tip": null
+    }
+  ]
+}

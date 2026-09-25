@@ -1,0 +1,36 @@
+{
+  "destination": null,
+  "display_name": null,
+  "country": null,
+  "year": null,
+  "trip": {
+    "start_date": null,
+    "end_date": null,
+    "days": null,
+    "rhythm": null,
+    "travelers": null,
+    "interests": [],
+    "constraints": []
+  },
+  "cover": {
+    "kicker": null,
+    "title": null,
+    "summary": null,
+    "image": null,
+    "tags": []
+  },
+  "transport": {
+    "status": "pending",
+    "legs": []
+  },
+  "stays": [
+    {
+      "status": "pending",
+      "place_id": null,
+      "check_in": null,
+      "check_out": null,
+      "notes": null
+    }
+  ],
+  "render_bindings_file": "render-bindings.json"
+}

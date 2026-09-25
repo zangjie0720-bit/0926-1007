@@ -1,0 +1,33 @@
+{
+  "destination": "山东沿海自驾环线",
+  "display_name": "山东沿海自驾环线",
+  "country": "中国",
+  "year": "2026",
+  "time_anchors": [],
+  "dining_plan": [],
+  "trip": {
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-07",
+    "days": 12,
+    "rhythm": "轻松，首日长途后留出日照休息日",
+    "travelers": "1人独自自驾",
+    "interests": ["好看的海岸和自然风景", "好吃实惠的地方食物", "轻松的自驾路线"],
+    "constraints": ["9月26日杭州到日照允许走高速", "9月27日至30日优先普通国道省道", "10月1日起可以走高速", "开小米YU7纯电车", "每晚优先合法且安全的车宿地点", "约每3至4天使用钟点房洗澡一次", "10月7日返回杭州", "避免单人疲劳驾驶和高价打卡消费"],
+    "quality_mode": "standard"
+  },
+  "cover": {
+    "kicker": "山海之间 · 十二日慢行",
+    "title": "追着海风走",
+    "summary": "从日照沿山东海岸走到荣成，再经烟台、淄博和济南回杭州。为一人一车安排补能、休息和实惠的地方风味。",
+    "image": "assets/cover-qingdao-coast.jpg",
+    "tags": ["单人自驾", "沿海风景", "地方美食", "电车车宿"]
+  },
+  "transport": {"status": "pending", "legs": []},
+  "stays": [{"status": "pending", "place_id": null, "check_in": null, "check_out": null, "notes": "计划车宿；仅在当地明确允许过夜、具备照明和卫生间且能安全停车的地点停留，具体地点出发前核实。"}],
+  "journey_phases": [
+    {"title": "向海而行", "description": "首日高速到日照，随后普通道路优先走青岛与乳山。"},
+    {"title": "胶东海岸", "description": "威海、荣成和烟台以短途与海景为主。"},
+    {"title": "鲁中返程", "description": "淄博和济南吃喝散步，再分两天回杭州。"}
+  ],
+  "render_bindings_file": "render-bindings.json"
+}

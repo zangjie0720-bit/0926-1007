@@ -1,0 +1,22 @@
+{
+  "sights": [
+    {
+      "id": null,
+      "type": "sight",
+      "display_name": null,
+      "local_name": null,
+      "english_name": null,
+      "map_query": null,
+      "source_url": null,
+      "description": null,
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "duration_minutes": null,
+      "scheduled_label": null
+    }
+  ],
+  "support": []
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202601/t20260126_10481040.shtml",
+  "checked_at": "2026-09-25T13:16:31.445068+00:00",
+  "images": [],
+  "status": "network_error",
+  "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)"
+}
